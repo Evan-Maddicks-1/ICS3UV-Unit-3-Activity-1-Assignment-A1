@@ -7,4 +7,4 @@
 let radius = 5.6
 let area = 3.14 * (radius * radius)
 
-console.log("The area of a circle with the radius " + radius + " is " + area + " cm²" )
+console.log("The area of a circle a radius of " + radius + " is " + area + " cm²" )
